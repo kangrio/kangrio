@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kangrio&show_icons=true&theme=tokyonight" height=200/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangrio&theme=tokyonight" height=200/>
+<img src="https://github-readme-stats.vercel.app/api?username=kangrio&show_icons=true&include_all_commits=true&theme=tokyonight" width=400 height=200/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangrio&layout=compact&theme=tokyonight" width=400 height=200/>
 </p>
 
 
