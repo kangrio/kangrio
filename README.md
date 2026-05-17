@@ -22,7 +22,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats-black-zeta-31.vercel.app/api?username=kangrio&show_icons=true&include_all_commits=true&theme=tokyonight" width=400 height=200/>
-<img src="https://github-readme-stats-black-zeta-31.vercel.app/api/top-langs/?username=kangrio&layout=compact&theme=tokyonight" width=400 height=200/>
+<img src="https://github-readme-stats-black-zeta-31.vercel.app/api/top-langs/?username=kangrio&layout=compact&theme=tokyonight&langs_count=8" width=400 height=200/>
 </p>
 
 
