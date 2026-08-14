@@ -20,33 +20,30 @@
 
 ## ⌛ WakaTime Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 06 August 2026 - To: 13 August 2026
-
-Total Time: 39 hrs 36 mins
-
-Kotlin                 29 hrs                ██████████████████▒░░░░░░   73.21 %
-Java                   3 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-XML                    2 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-YAML                   1 hr 51 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Text                   45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Markdown               42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-TOML                   24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Shrinker Config File   11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+<img src="https://github-readme-stats-black-zeta-31.vercel.app/api/wakatime?username=19da8a4b-484e-420e-8b18-ae4f0df25928&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats-black-zeta-31.vercel.app/api?username=kangrio&show_icons=true&include_all_commits=true&theme=tokyonight" width=400 height=200/>
-<img src="https://github-readme-stats-black-zeta-31.vercel.app/api/top-langs/?username=kangrio&layout=compact&theme=tokyonight&langs_count=8" width=400 height=200/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-black-zeta-31.vercel.app/api?username=kangrio&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&theme=tokyonight" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-black-zeta-31.vercel.app/api/top-langs/?username=kangrio&layout=compact&theme=tokyonight&langs_count=8" />
+
+</td>
+</tr>
+</table>
+</div>
 
 
 ---
