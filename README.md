@@ -20,7 +20,8 @@
 
 ## ⌛ WakaTime Stats
 
-[![wakatime](https://wakatime.com/badge/user/19da8a4b-484e-420e-8b18-ae4f0df25928.svg)](https://wakatime.com/@19da8a4b-484e-420e-8b18-ae4f0df25928)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
