@@ -21,6 +21,22 @@
 ## ⌛ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 August 2026 - To: 13 August 2026
+
+Total Time: 39 hrs 36 mins
+
+Kotlin                 29 hrs                ██████████████████▒░░░░░░   73.21 %
+Java                   3 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+XML                    2 hrs 12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+YAML                   1 hr 51 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Text                   45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Markdown               42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TOML                   24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Shrinker Config File   11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
