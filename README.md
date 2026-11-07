@@ -1,9 +1,5 @@
 ### Hi there! 👋 Welcome to my GitHub Profile!
 
-<p align="center">
-<img src="https://github.com/kangrio/kangrio/blob/main/assets/line.gif" width=640>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
